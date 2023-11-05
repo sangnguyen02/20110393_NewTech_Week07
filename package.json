@@ -15,5 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "supertest": "^6.3.3"
   }
 }
